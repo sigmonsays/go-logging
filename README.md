@@ -11,7 +11,7 @@ in log.go add the following
 
       package whatever
       import (
-          gologging "git.llnw.com/lama/go-logging.git"
+          gologging "github.com/sigmonsays/go-logging.git"
       )
 
       var log gologging.Logger
